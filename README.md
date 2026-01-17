@@ -1,2 +1,4 @@
-# Customer-Churn-
-Customer Churn Analysis dashboard for a telecom company using real-world retention data. The objective was to understand churn behavior, quantify revenue at risk, and identify the key drivers influencing customer attrition.
+# Customer-Churn-Analysis Telecom-Industry
+ Overview
+This project presents an end-to-end Customer Churn Analysis for a telecom company using real-world retention data.
+The goal is to identify churn patterns, quantify revenue risk, and uncover the key drivers behind customer attrition, supporting data-driven retention strategies.
